@@ -1,0 +1,5 @@
+you can not delete the feature or facilires that are already added in the event.
+when you click the delette button of that features then you ill get server down error which is to be corrected
+
+in facilites_features.js and features_facilitis in ajax.
+when we click  the dleete button of that features the toogle will appear that "feature already present in th room"
